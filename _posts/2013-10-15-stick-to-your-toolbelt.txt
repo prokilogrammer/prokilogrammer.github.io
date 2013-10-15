@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stick to your toolbelt"
+title: Stick to your toolbelt
 ---
 
 I was wondering why I wasn't able to complete all of my side-projects. I realized that early on during the project, I am confronted with many choices to choose from, which drops my motivation. When I start a project, my first job would be to "choose the right ______" - substitute the blank with programming language, IDE, Operating System, version control, web hosting, blogging platform etc.
