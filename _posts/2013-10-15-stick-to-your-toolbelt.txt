@@ -3,5 +3,10 @@ layout: post
 title: "Stick to your toolbelt"
 ---
 
-Choice is a big problem for me today.  
+I was wondering why I wasn't able to complete all of my side-projects. I realized that early on during the project, I am confronted with many choices to choose from, which drops my motivation. When I start a project, my first job would be to "choose the right ______" - substitute the blank with programming language, IDE, Operating System, version control, web hosting, blogging platform etc.
+I would spend hours on the internet searching for the pefect tool and after selecting one, many more days will fly by installing, configuring, learning the syntax etc. As the result of such completely unproductive time, I get frustrated and stop working on the project. 
 
+I have decided to create a toolbelt of my own and stick to it. It will have a set of tools for various tasks like building websites, statistical programming, building distributed systems etc. I will update the tools once every year to keep abreast with the latest technologies. Here is how my current toolbelt looks:
+
+
+TBD
