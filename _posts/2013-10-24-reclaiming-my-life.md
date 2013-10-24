@@ -15,7 +15,7 @@ I have had serious psychological issues during the last 10 months. I have spent 
 
   Solution: Why do you want to all the above? A few months ago, getting a job in a startup was in the list. After getting it were you any more happier? Go read the Solution #1. 
 
-3. __I want to work like crazy, create something big and be famous__
+3. _I want to work like crazy, create something big and be famous_
 
   Solution: Read solution #2. 
 
@@ -27,7 +27,7 @@ I have had serious psychological issues during the last 10 months. I have spent 
 
   Solution: What are you afraid about? Is it the decision or the effect of the decision? As long as your decision doesn't kill you or do anything unlawful, take the decision with courage. 
 
-6.  _Will my life be useless if I stop desiring for everything?_
+6. _Will my life be useless if I stop desiring for everything?_
 
    Solution: Are you happy despite wanting so many things? Hell No. You won't be any worse if you stop desiring. Instead read solution #1 and stay happy and contended.
 
@@ -37,12 +37,14 @@ I have had serious psychological issues during the last 10 months. I have spent 
 (This is my fourth grand attempt to refocus my life in the last 10months. I feel ashamed that I am making a huge mess of life. It is ok. I will keep trying and hoping that this is the last one)
 
 #### Pre-conditions:
+
 1. I can't stop using internet.
 2. I can't become an OCD
 3. I can't code all day
 4. I can't keep my desk clean; I can't always do my laundry
 
 #### Actions:
+
 1. I will be grateful to all the gifts I have in life today
 2. There is only one thing that can give me happiness - It is the moment **NOW**. Be cognizant of it.
 3. Don't advice anyone about their life. Every one knows better than you!
