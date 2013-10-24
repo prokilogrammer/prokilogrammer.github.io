@@ -11,7 +11,9 @@ I have had serious psychological issues during the last 10 months. I have spent 
 
 2. _I want to achieve something big_
 
-  `I want to travel to space, I want to drive a race car, I want to build a company like Steve Jobs, I want to fame, I want money, I want to dress fancy, I want to be an extrovert, I want to be called a genius by others, I want to be Einstein, I want to be famous`
+  > I want to travel to space, I want to drive a race car, I want to build a company like Steve Jobs, 
+  > I want to fame, I want money, I want to dress fancy, I want to be an extrovert, 
+  > I want to be called a genius by others, I want to be Einstein, I want to be famous
 
   Solution: Why do you want to all the above? A few months ago, getting a job in a startup was in the list. After getting it were you any more happier? Go read the Solution #1. 
 
@@ -50,16 +52,16 @@ I have had serious psychological issues during the last 10 months. I have spent 
 3. Don't advice anyone about their life. Every one knows better than you!
 4. Donate $1 to someone everyday, in person. 
 5. Remove focus from internet. Instead of randomly browsing the internet (HN, FB, Twitter, email etc), do the following:
-    a. Read a book 
-    b. Do household chores
-    c. Talk to people physically around you with complete involvement
-    d. Learn cooking
-    e. Wash and clean my car
-    f. Run
-    g. Plan for vacations, or other imminent events
-    h. Do laundry
-    i. Write a prose/poetry
-    j. Teach someone
+  1. Read a book 
+  2. Do household chores
+  3. Talk to people physically around you with complete involvement
+  4. Learn cooking
+  5. Wash and clean my car
+  6. Run
+  6. Plan for vacations, or other imminent events
+  7. Do laundry
+  8. Write a prose/poetry
+  9. Teach someone
 6. Be true to your heart. Openly and bluntly communicate everything to everyone. Be very transparent.
 7. Take sad moments lightly. They are ephemeral. They won't harm you.
 8. Be very very happy. Bubbling with happiness and contentment :)
