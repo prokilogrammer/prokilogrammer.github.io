@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Reclaiming my life
+published: false
 ---
 
 I have had serious psychological issues during the last 10 months. I have spent every waking moment trying to find a solution, but ended up getting deeper into the problem. I started practicing Isha Yoga from April. It made me understand the problem better but brought no solution to sight. Today, my issues became so big that I started thinking about exit strategies from life :( This is it. This is the end. I am putting an end to all this drama and going to lead a normal life like my dad and mom. Here are my problems and my plans to solve them:
