@@ -1,7 +1,7 @@
 ---
-  title: Awesomeness of Backbone.js
-  layout; post
-  category: GiveIt100
+title: Awesomeness of Backbone.js
+layout; post
+category: GiveIt100
 ---
 
 I am working on making a simple website with Django for the backend and Backbone.js for frontend. 
