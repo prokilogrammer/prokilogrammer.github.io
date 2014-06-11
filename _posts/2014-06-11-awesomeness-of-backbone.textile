@@ -1,6 +1,6 @@
 ---
-title: Awesomeness of Backbone.js
 layout; post
+title: Awesomeness of Backbone.js
 category: GiveIt100
 ---
 
