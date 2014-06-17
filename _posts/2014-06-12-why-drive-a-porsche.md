@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why I drive a Porsche?
+category: GiveIt100
 ---
 
 There are few things in life that reflect with your personality and connect with your inner self.
