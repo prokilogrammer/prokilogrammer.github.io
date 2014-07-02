@@ -17,7 +17,7 @@ from Caltrain station towards Panera Bread when an idea struck me. Why not surve
 takes 30seconds to cross, so that would be sufficient for people to tell me if they like the former or later. I sat in front of Panera and
 wrote the question I would ask people. Here is it:
 
-
+ 
 >  What do you wish we had today?
 >
 >  An app that would send you invites to taste food from new restaurants that are opening up 
