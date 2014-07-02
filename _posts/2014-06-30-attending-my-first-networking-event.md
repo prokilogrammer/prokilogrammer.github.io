@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Attending my first networking event - Startup Grind
 ---
 
