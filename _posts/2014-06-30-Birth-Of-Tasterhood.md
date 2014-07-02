@@ -2,7 +2,7 @@
 title: Birth of Tasterhood
 layout: post
 ---
-
+ 
 This evening I went to Startup Grind meetup. My primary goal was to talk to people about TypeMe and get contacts with 
 companies/individuals in customer care space. I did talk to 3-4 people, but none of them were excited about TypeMe.
 On the other hand, when I told them about Metromile, people were so psyched about it that they want to signup right there.
@@ -16,18 +16,17 @@ from Caltrain station towards Panera Bread when an idea struck me. Why not surve
 takes 30seconds to cross, so that would be sufficient for people to tell me if they like the former or later. I sat in front of Panera and
 wrote the question I would ask people. Here is it:
 
-"""
-  What do you wish we had today?
 
-  An app that would send you invites to taste food from new restaurants that are opening up 
-  (or) An alternate to spelling out your name, credit card number etc to a customer service representative over phone?
-"""
+>  What do you wish we had today?
+>
+>  An app that would send you invites to taste food from new restaurants that are opening up 
+>  (or) An alternate to spelling out your name, credit card number etc to a customer service representative over phone?
+
 
 I asked 6 random people near Panera-Caltrain area and they all chose Tasterhood hands down. People didn't even understand
 what TypeMe was and how it would do anything for them. One person said he never uses Debit Cards.
 
 
-Vola, Tasterhood was born !!
-
+** Vola, Tasterhood was born !! **
 
 Ramya and I had a chat about how to do a MVP for Tasterhood. I will write more about it as we progress.
