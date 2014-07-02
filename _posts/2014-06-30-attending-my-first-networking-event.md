@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Attending my first networking event - Startup Grind
+category: Startup
 ---
 
 Today I'm going to attend my first networking event - Startup Grind. Here are some of my objectives for this event:

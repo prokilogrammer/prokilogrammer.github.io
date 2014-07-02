@@ -1,6 +1,7 @@
 ---
 title: Birth of Tasterhood
 layout: post
+category: Startup
 ---
  
 This evening I went to Startup Grind meetup. My primary goal was to talk to people about TypeMe and get contacts with 
