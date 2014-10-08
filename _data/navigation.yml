@@ -1,0 +1,14 @@
+# Site navigation links
+- title: Home
+  url: /
+- title: Blog
+  url: /blog/
+
+- title: About
+  url: /about/
+
+- title: Github
+  url: http://github.com/prokilogrammer
+
+- title: Twitter
+  url: http://twitter.com/prokilogrammer
